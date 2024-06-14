@@ -28,7 +28,7 @@ Esta aplicación utiliza node express. El script descarga un video de YouTube y 
     node index.js
     ```
 
-## El script realizará las siguientes acciones:
+### El script realizará las siguientes acciones:
 
 - Descargará el video de YouTube y lo guardará en un archivo temporal.
 - Extraerá el audio del video y lo guardará en la carpeta `downloads` como `audio.mp3`.
